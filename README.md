@@ -1,2 +1,2 @@
 # LianaAssignment-
-<a>https://lianaassigment.netlify.app/</a>
+<a target="_blank" >https://lianaassigment.netlify.app/</a>
